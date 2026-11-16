@@ -1,0 +1,22 @@
+{
+ "glb": "assets/interior.glb",
+ "glb_bytes": 5388348,
+ "desktop": {
+  "files": {
+   "floorceil": "floorceil_4096.webp",
+   "walls": "walls_4096.webp",
+   "furn": "furn_4096.webp",
+   "toys": "toys_4096.webp"
+  },
+  "bytes": 9301344
+ },
+ "phone": {
+  "files": {
+   "floorceil": "floorceil_2048.webp",
+   "walls": "walls_2048.webp",
+   "furn": "furn_2048.webp",
+   "toys": "toys_2048.webp"
+  },
+  "bytes": 2427876
+ }
+}

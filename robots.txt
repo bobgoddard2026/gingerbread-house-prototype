@@ -1,0 +1,6 @@
+# The Gingerbread House Early Learning Center
+# Search engines are welcome to read the whole site.
+User-agent: *
+Allow: /
+
+Sitemap: https://thegingerbreadhousenh.com/sitemap.xml

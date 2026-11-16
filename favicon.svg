@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>The Gingerbread House</title>
+  <rect width="64" height="64" rx="14" fill="#fff5e6"/>
+  <path d="M13 31 32 14l19 17v23H13z" fill="#8e4b22"/>
+  <path d="M8 32 32 10l24 22" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="17" y="35" width="7" height="7" rx="1.5" fill="#ffffff"/>
+  <rect x="40" y="35" width="7" height="7" rx="1.5" fill="#ffffff"/>
+  <path d="M26 54V45a6 6 0 0 1 12 0v9z" fill="#c8243b"/>
+  <circle cx="32" cy="9" r="5" fill="#2f8f83"/>
+</svg>
